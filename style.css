@@ -6,7 +6,6 @@ body {
 
 .email {
     display: block;
-    width: 270px;
     height: 46px;
     margin-bottom: 15px;
 }
@@ -15,35 +14,32 @@ body {
 
 .clase1 {
     background-color: #f2f2f2;
-    margin-left: 45px;
-    margin-right: 45px;
-    width: 270px;
+    width: 100%;
     height: 46px;
     padding-left: 15px;
     box-sizing: border-box;
     margin-bottom: 15px;
-    border: none
+    border: none;
 }
 
 
 button {
     display: block;
-    margin-left: 45px;
-    margin-right: 45px;
     background-color: #4caf50;
-    width: 270px;
+    width: 100%;
     height: 46px;
     color: white;
-     border:none
+    border: none;
+    box-sizing: border-box
 }
 
 
 form {
     background-color: white;
     width: 360px;
-    padding-top: 45px;
-    padding-bottom: 45px;
+    padding: 45px;
     box-shadow: 10px 10px 10px rgba(0, 0, 1, 0.4);
     margin: auto;
-    margin-top: 160px
+    margin-top: 160px;
+    box-sizing: border-box
 }
