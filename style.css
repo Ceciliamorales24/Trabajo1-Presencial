@@ -1,7 +1,6 @@
 body {
     background-color: #76b852;
     font-family: 'Roboto', sans-serif;
-    font-weight:
 }
 
 .email {
@@ -10,11 +9,9 @@ body {
     margin-bottom: 15px;
 }
 
-.password {}
-
 .clase1 {
     background-color: #f2f2f2;
-    width: 100%;
+    width: 100% ;
     height: 46px;
     padding-left: 15px;
     box-sizing: border-box;
@@ -22,9 +19,8 @@ body {
     border: none;
 }
 
-
-button {
-    display: block;
+.boton {
+    
     background-color: #4caf50;
     width: 100%;
     height: 46px;
@@ -33,8 +29,7 @@ button {
     box-sizing: border-box
 }
 
-
-form {
+.formulario {
     background-color: white;
     width: 360px;
     padding: 45px;
